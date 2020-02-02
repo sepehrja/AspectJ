@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Access Control/Access Control.iml" filepath="$PROJECT_DIR$/Access Control/Access Control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Animals/Animals.iml" filepath="$PROJECT_DIR$/Animals/Animals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Animals2/Animals2.iml" filepath="$PROJECT_DIR$/Animals2/Animals2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Semaphore Protocol/Binary Semaphore Protocol.iml" filepath="$PROJECT_DIR$/Binary Semaphore Protocol/Binary Semaphore Protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bladerunner/Bladerunner.iml" filepath="$PROJECT_DIR$/Bladerunner/Bladerunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bladerunner in Java/Bladerunner in Java.iml" filepath="$PROJECT_DIR$/Bladerunner in Java/Bladerunner in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Building Blocks/Building Blocks.iml" filepath="$PROJECT_DIR$/Building Blocks/Building Blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Casting/Casting.iml" filepath="$PROJECT_DIR$/Casting/Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Circular Buffer/Circular Buffer.iml" filepath="$PROJECT_DIR$/Circular Buffer/Circular Buffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client-Server/Client-Server.iml" filepath="$PROJECT_DIR$/Client-Server/Client-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compiler vs Runtime/Compiler vs Runtime.iml" filepath="$PROJECT_DIR$/Compiler vs Runtime/Compiler vs Runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cyclic Counter Protocol/Cyclic Counter Protocol.iml" filepath="$PROJECT_DIR$/Cyclic Counter Protocol/Cyclic Counter Protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dog Hierarchy/Dog Hierarchy.iml" filepath="$PROJECT_DIR$/Dog Hierarchy/Dog Hierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game of Thrones/Game of Thrones.iml" filepath="$PROJECT_DIR$/Game of Thrones/Game of Thrones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Global Positioning System/Global Positioning System.iml" filepath="$PROJECT_DIR$/Global Positioning System/Global Positioning System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Collections API/Java Collections API.iml" filepath="$PROJECT_DIR$/Java Collections API/Java Collections API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lockable Counter/Lockable Counter.iml" filepath="$PROJECT_DIR$/Lockable Counter/Lockable Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Locking Semaphore/Locking Semaphore.iml" filepath="$PROJECT_DIR$/Locking Semaphore/Locking Semaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overriding and Hiding/Overriding and Hiding.iml" filepath="$PROJECT_DIR$/Overriding and Hiding/Overriding and Hiding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Point Initializations/Point Initializations.iml" filepath="$PROJECT_DIR$/Point Initializations/Point Initializations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Points/Points.iml" filepath="$PROJECT_DIR$/Points/Points.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Points2/Points2.iml" filepath="$PROJECT_DIR$/Points2/Points2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Points3/Points3.iml" filepath="$PROJECT_DIR$/Points3/Points3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Points4/Points4.iml" filepath="$PROJECT_DIR$/Points4/Points4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rules of Precedence/Rules of Precedence.iml" filepath="$PROJECT_DIR$/Rules of Precedence/Rules of Precedence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack API Protocol Demo/Stack API Protocol Demo.iml" filepath="$PROJECT_DIR$/Stack API Protocol Demo/Stack API Protocol Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack Protocol Enforcement/Stack Protocol Enforcement.iml" filepath="$PROJECT_DIR$/Stack Protocol Enforcement/Stack Protocol Enforcement.iml" />
+    </modules>
+  </component>
+</project>
